@@ -1,1 +1,1 @@
-# Basic website describing skills and abilities for potential jobs
+# Basic website describing skills and abilities to show potential employers.    
